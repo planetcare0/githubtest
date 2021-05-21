@@ -46,3 +46,13 @@ git log
 git pull origin master
 git log
 git show c1bf0260
+ls
+nano indiafile.html
+ls
+git status
+git add .
+git status
+git commit -m 'come from sigapure pls delete thatr file '
+git status
+git log
+git show 7760847
